@@ -10,6 +10,7 @@ A simple multi-screen mobile application built with Flutter. This project demons
   <img src="lib/assets/screenshots/login.jpg" width="200" />
   <img src="lib/assets/screenshots/home.jpg" width="200" />
   <img src="lib/assets/screenshots/details.jpg" width="200" />
+   <img src="lib/assets/screenshots/my_account.jpg" width="200" />
 </p>
 
 ## Features
