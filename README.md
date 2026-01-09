@@ -4,12 +4,13 @@ A simple multi-screen mobile application built with Flutter. This project demons
 
  **Note:** This project uses **Mock Data** and local state management. No real backend or API is connected.
 
-<!-- ## Screenshots
+## App Preview
+
 <p align="center">
-  <img src="https://via.placeholder.com/200x400?text=Home+Screen" width="200" />
-  <img src="https://via.placeholder.com/200x400?text=Details+Screen" width="200" />
-  <img src="https://via.placeholder.com/200x400?text=Account+Screen" width="200" />
-</p> -->
+  <img src="assets/screenshots/login.jpg" width="200" />
+  <img src="assets/screenshots/home.jpg" width="200" />
+  <img src="assets/screenshots/details.jpg" width="200" />
+</p>
 
 ## Features
 
